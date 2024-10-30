@@ -1,4 +1,4 @@
-local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V5.lua"))()
+local redzlib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mijikaisys/UwUUnU/refs/heads/main/redzlib.lua"))()
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/cracklua/cracks/m/sources/pitbull/Library/V4.lua"))()
 
 local Stats = game:GetService('Stats')
